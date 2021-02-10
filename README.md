@@ -5,6 +5,7 @@ pkg update
 pkg upgrade
 pkg install git
 pkg insall python2
+rm -rf infect
 git clone https://github.com/Tech-abm/infect
 cd infect
 python2 infect.py
