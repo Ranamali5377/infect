@@ -4,6 +4,8 @@
 import os  , sys , time , datetime  
 reload(sys)
 
+os.system("clear")
+os.system("git pull") 
 os.system("clear") 
 print('')
 print('')
@@ -21,8 +23,7 @@ print('')
 print('')
 time.sleep(5)
 os.system("xdg-open https://github.com/Tech-abm/Blueforce-Abm") 
-os.system("git pull") 
-os.system("clear") 
-os.system("exit") 
+ 
+ 
 
 
