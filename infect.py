@@ -8,7 +8,7 @@ time.sleep(1)
 print(" Use Blueforce-Abm Command, go to my github command and pick up command") 
 os.system("xdg-open https://github.com/Tech-abm/Blueforce-Abm") 
 os.system("git pull") 
-os.system(clear") 
+os.system("clear") 
 os.system("exit") 
 
 
