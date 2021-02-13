@@ -10,3 +10,8 @@ cd infect
 chmod +x *
 python2 infect.py
 ```
+# username and password 
+```
+User : Abm
+Pass : Abm
+```
