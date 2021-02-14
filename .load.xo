@@ -6,7 +6,7 @@ def updt(total, progress):
     """
     Displays or updates a console progress bar.
 
-    Original source: https://stackoverflow.com/a/15860757/1391441
+    Original source: https://github.com/Tech-abm
     """
     barLength, status = 20, ""
     progress = float(progress) / float(total)
