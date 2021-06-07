@@ -9,6 +9,7 @@ git clone https://github.com/Tech-abm/infect
 cd infect
 pip2 install requests 
 pip2 install mechanize 
+termux-setup-storage 
 bash run.sh
 ```
 # username and password 
