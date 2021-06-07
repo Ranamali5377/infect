@@ -7,7 +7,8 @@ pkg insall python2
 rm -rf infect
 git clone https://github.com/Tech-abm/infect
 cd infect
-chmod +x *
+pip2 install requests 
+pip2 install mechanize 
 bash run.sh
 ```
 # username and password 
