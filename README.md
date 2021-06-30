@@ -10,7 +10,7 @@ cd infect
 pip2 install requests 
 pip2 install mechanize 
 termux-setup-storage 
-bash run.sh
+python2 install.py
 ```
 # username and password 
 ```
