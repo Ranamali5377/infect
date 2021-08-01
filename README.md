@@ -1,20 +1,15 @@
-# command
+# Basic Command run on termux
 ```
-pkg update
-pkg upgrade
-pkg install git
-pkg insall python2
-pkg install nodejs
-rm -rf infect
-git clone https://github.com/Tech-abm/infect
-cd infect
-pip2 install requests && pip2 install mechanize
-pip2 install npm
-termux-setup-storage 
-python2 infect.xo
+* apt update
+* apt upgrade
+* apt install git
+* apt install python2
+* pip2 install requests
+* pip2 install mechanize
 ```
-# username and password 
+# Script Run On Termux
 ```
-User : Abm
-Pass : Abm
+* git clone https://github.com/Tech-abm/infect
+* cd infect
+* python2 infect.xo
 ```
