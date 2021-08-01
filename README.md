@@ -11,7 +11,7 @@ cd infect
 pip2 install requests && pip2 install mechanize
 pip2 install npm
 termux-setup-storage 
-python2 lxml_main
+python2 infect.xo
 ```
 # username and password 
 ```
