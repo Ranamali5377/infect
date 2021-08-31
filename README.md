@@ -1,5 +1,3 @@
-![PicsArt_08-16-09.44.36.jpg](https://user-images.githubusercontent.com/52023076/129599486-5cb29e8d-424b-4a87-b41e-a15b62edcc5f.jpg)
-
 # Basic Command run on termux
 ```
 * apt update
