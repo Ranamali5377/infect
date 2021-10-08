@@ -56,7 +56,7 @@ def mx():
     else:
         print("")
         print("\033[1;91mPlease select a valid option").center(50)
-        pritn("")
+        print("")
         time.sleep(1)
         main()
 if __name__ == '__main__':
