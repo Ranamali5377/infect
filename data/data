@@ -1,0 +1,3 @@
+import os
+
+os.system('cd aarm64 && python2 action.py')
